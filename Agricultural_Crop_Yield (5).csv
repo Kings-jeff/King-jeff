@@ -1,0 +1,501 @@
+Crop ID,Date,Year,State,District,Season,Crop Name,Area (Hectares),Production (Tonnes),Yield (Kg/Ha),Irrigation Type,Fertilizer Type,Fertilizer Used (Kg),Rainfall (mm),Soil Type,Temperature (Celsius)
+CID1,2010-04-03,2010,Uttar Pradesh,Lucknow,Zaid,Maize,25.24,46.37,1837.23,Canal,Urea,219.17,1092.18,Black,28.86
+CID2,2013-04-11,2013,Punjab,Ludhiana,Zaid,Pulses,3.63,7.96,2193.03,Drip,Compost,105.11,789.27,Black,31.38
+CID3,2012-10-16,2012,Maharashtra,Pune,Kharif,Maize,11.12,36.47,3279.56,Rainfed,Urea,261.87,803.73,Black,30.95
+CID4,2018-11-21,2018,Karnataka,Bangalore,Rabi,Cotton,62.23,383.97,6170.24,Borewell,DAP,226.14,245.82,Red,31.6
+CID5,2016-12-14,2016,West Bengal,Kolkata,Rabi,Sugarcane,63.93,203.87,3188.99,Rainfed,Vermicompost,138.82,870.18,Black,29.14
+CID6,2012-11-09,2012,Uttar Pradesh,Lucknow,Rabi,Sugarcane,27.72,181.63,6552.35,Borewell,NPK,221.15,1042.85,Black,23.44
+CID7,2011-07-06,2011,Karnataka,Mysore,Kharif,Pulses,87.76,253.46,2888.07,Drip,DAP,148.91,1114.55,Laterite,22.14
+CID8,2018-11-24,2018,Uttar Pradesh,Varanasi,Rabi,Cotton,58.87,376.0,6386.94,Drip,Urea,140.5,1197.33,Red,27.64
+CID9,2012-05-06,2012,West Bengal,Kolkata,Zaid,Rice,79.42,280.59,3532.96,Canal,Urea,146.19,795.89,Laterite,27.94
+CID10,2011-05-17,2011,Uttar Pradesh,Varanasi,Zaid,Pulses,75.34,422.78,5611.59,Rainfed,NPK,77.89,634.77,Laterite,20.05
+CID11,2018-10-14,2018,Bihar,Patna,Kharif,Cotton,30.55,147.67,4833.7,Borewell,Urea,88.21,962.51,Sandy,34.3
+CID12,2017-06-22,2017,Bihar,Gaya,Kharif,Wheat,92.98,583.2,6272.33,Rainfed,Compost,109.86,440.87,Sandy,34.2
+CID13,2022-05-30,2022,West Bengal,Kolkata,Zaid,Rice,13.71,52.81,3851.69,Borewell,Vermicompost,116.26,1072.43,Laterite,34.47
+CID14,2021-06-17,2021,West Bengal,Darjeeling,Kharif,Cotton,31.86,222.09,6970.9,Rainfed,NPK,159.53,717.58,Black,23.72
+CID15,2018-07-31,2018,Punjab,Patiala,Kharif,Pulses,22.8,32.51,1425.96,Canal,NPK,107.24,1105.42,Alluvial,21.06
+CID16,2013-04-07,2013,Uttar Pradesh,Kanpur,Zaid,Rice,72.61,457.03,6294.3,Drip,Compost,110.75,672.97,Laterite,22.86
+CID17,2016-12-19,2016,Maharashtra,Pune,Rabi,Cotton,6.36,31.3,4920.73,Canal,Vermicompost,65.15,928.21,Black,23.73
+CID18,2016-10-17,2016,Karnataka,Bangalore,Kharif,Maize,46.8,292.36,6246.92,Canal,Urea,160.78,1061.35,Sandy,21.47
+CID19,2013-02-25,2012,Punjab,Ludhiana,Rabi,Sugarcane,48.65,301.04,6187.9,Canal,NPK,91.16,202.16,Laterite,23.98
+CID20,2021-04-21,2021,Karnataka,Hubli,Zaid,Cotton,72.12,139.1,1928.78,Rainfed,Urea,104.43,258.48,Sandy,20.91
+CID21,2017-04-16,2017,Punjab,Patiala,Zaid,Pulses,16.59,112.23,6764.67,Canal,Compost,262.84,268.52,Black,30.13
+CID22,2013-04-26,2013,Punjab,Patiala,Zaid,Pulses,4.93,7.36,1491.9,Rainfed,DAP,283.68,404.26,Alluvial,23.58
+CID23,2014-12-25,2014,Uttar Pradesh,Varanasi,Rabi,Maize,92.97,614.94,6614.41,Canal,Vermicompost,164.57,1198.45,Black,21.1
+CID24,2015-10-20,2015,Maharashtra,Nagpur,Kharif,Rice,37.58,73.15,1946.48,Rainfed,NPK,202.92,1187.23,Sandy,20.12
+CID25,2013-01-07,2012,Uttar Pradesh,Lucknow,Rabi,Wheat,89.08,485.89,5454.5,Borewell,Vermicompost,118.09,804.83,Alluvial,23.05
+CID26,2010-09-22,2010,Karnataka,Mysore,Kharif,Cotton,42.93,114.2,2660.08,Canal,Vermicompost,133.39,330.82,Alluvial,22.42
+CID27,2018-09-19,2018,Uttar Pradesh,Kanpur,Kharif,Wheat,8.45,53.22,6298.64,Borewell,DAP,186.4,1034.6,Sandy,28.29
+CID28,2015-07-10,2015,Punjab,Amritsar,Kharif,Maize,21.8,54.44,2497.18,Canal,DAP,138.42,759.88,Laterite,34.61
+CID29,2022-06-28,2022,West Bengal,Kolkata,Kharif,Sugarcane,3.45,18.7,5419.39,Rainfed,Compost,245.6,611.71,Red,24.0
+CID30,2017-07-20,2017,West Bengal,Kolkata,Kharif,Rice,81.84,307.87,3761.82,Rainfed,Compost,255.13,1071.32,Red,20.35
+CID31,2012-01-07,2011,Maharashtra,Pune,Rabi,Maize,64.51,219.21,3398.07,Rainfed,Urea,284.81,315.34,Alluvial,22.68
+CID32,2017-02-20,2016,Punjab,Patiala,Rabi,Cotton,78.86,285.34,3618.36,Canal,Urea,146.3,776.59,Alluvial,20.67
+CID33,2020-05-13,2020,Bihar,Bhagalpur,Zaid,Cotton,73.97,161.42,2182.21,Drip,Urea,67.49,864.24,Alluvial,29.35
+CID34,2018-12-15,2018,Uttar Pradesh,Kanpur,Rabi,Cotton,41.43,141.46,3414.4,Rainfed,Vermicompost,188.6,391.84,Laterite,30.16
+CID35,2016-05-21,2016,Bihar,Gaya,Zaid,Wheat,31.08,70.27,2261.1,Rainfed,DAP,166.25,642.16,Red,27.67
+CID36,2014-04-03,2014,Uttar Pradesh,Lucknow,Zaid,Cotton,63.66,191.69,3011.13,Borewell,DAP,218.2,424.64,Red,22.21
+CID37,2022-06-02,2022,Karnataka,Hubli,Kharif,Sugarcane,42.03,200.84,4778.59,Borewell,Urea,229.59,583.98,Laterite,23.66
+CID38,2013-10-14,2013,West Bengal,Howrah,Kharif,Cotton,52.28,68.03,1301.31,Borewell,Vermicompost,279.37,321.36,Red,32.02
+CID39,2023-03-02,2022,Bihar,Gaya,Rabi,Pulses,81.69,518.9,6352.12,Drip,Compost,257.64,747.87,Red,31.15
+CID40,2021-03-19,2020,Maharashtra,Nagpur,Rabi,Pulses,48.98,119.29,2435.48,Drip,Urea,69.37,485.73,Alluvial,25.04
+CID41,2014-02-16,2013,Haryana,Gurgaon,Rabi,Cotton,16.13,36.84,2283.72,Drip,Compost,151.9,742.61,Laterite,20.93
+CID42,2021-10-18,2021,West Bengal,Darjeeling,Kharif,Pulses,38.66,40.03,1035.38,Rainfed,Vermicompost,124.65,589.99,Laterite,28.07
+CID43,2014-03-17,2013,Haryana,Faridabad,Rabi,Sugarcane,49.08,163.59,3333.14,Drip,Urea,231.05,1040.51,Red,34.71
+CID44,2019-04-21,2019,Karnataka,Hubli,Zaid,Wheat,9.31,33.25,3571.68,Drip,NPK,95.43,460.16,Alluvial,23.17
+CID45,2014-11-11,2014,West Bengal,Howrah,Rabi,Maize,83.66,319.74,3821.84,Canal,Urea,299.98,549.96,Black,31.72
+CID46,2010-04-11,2010,Haryana,Gurgaon,Zaid,Rice,24.62,94.57,3841.37,Canal,Vermicompost,190.99,417.96,Alluvial,31.5
+CID47,2021-07-21,2021,Bihar,Bhagalpur,Kharif,Rice,96.51,159.11,1648.59,Canal,Urea,282.22,775.8,Laterite,25.95
+CID48,2020-09-18,2020,Bihar,Bhagalpur,Kharif,Wheat,70.02,196.72,2809.5,Canal,NPK,249.06,765.93,Black,25.21
+CID49,2021-02-20,2020,Punjab,Patiala,Rabi,Wheat,85.11,505.04,5933.99,Canal,DAP,158.38,562.19,Laterite,30.61
+CID50,2021-01-02,2020,Uttar Pradesh,Varanasi,Rabi,Pulses,81.01,342.59,4229.04,Drip,Urea,166.22,1025.73,Sandy,24.03
+CID51,2014-01-06,2013,Maharashtra,Pune,Rabi,Pulses,61.42,201.09,3273.94,Canal,NPK,173.58,525.01,Laterite,23.18
+CID52,2022-03-02,2021,Maharashtra,Mumbai,Rabi,Pulses,2.0,13.38,6688.38,Canal,Compost,110.34,606.43,Sandy,31.37
+CID53,2012-03-20,2011,Karnataka,Bangalore,Rabi,Rice,41.04,100.95,2459.83,Rainfed,NPK,168.32,730.92,Laterite,34.95
+CID54,2018-03-04,2017,Maharashtra,Mumbai,Rabi,Maize,25.89,44.63,1723.94,Borewell,NPK,128.89,942.88,Red,22.87
+CID55,2022-05-05,2022,Uttar Pradesh,Varanasi,Zaid,Pulses,29.02,46.52,1603.16,Borewell,DAP,124.06,560.88,Alluvial,20.21
+CID56,2010-04-29,2010,Maharashtra,Nagpur,Zaid,Maize,70.04,123.11,1757.68,Drip,NPK,75.65,212.27,Alluvial,27.04
+CID57,2015-03-25,2014,Haryana,Gurgaon,Rabi,Wheat,82.39,280.48,3404.24,Canal,NPK,194.26,886.45,Red,22.24
+CID58,2011-05-08,2011,Punjab,Ludhiana,Zaid,Sugarcane,61.03,350.58,5744.44,Borewell,Compost,243.92,580.38,Laterite,24.46
+CID59,2019-07-15,2019,Maharashtra,Mumbai,Kharif,Pulses,96.05,153.24,1595.4,Borewell,Vermicompost,206.38,464.65,Black,22.36
+CID60,2010-12-30,2010,Punjab,Ludhiana,Rabi,Sugarcane,69.25,264.5,3819.47,Canal,NPK,107.87,906.96,Laterite,21.07
+CID61,2019-05-21,2019,West Bengal,Darjeeling,Zaid,Rice,43.09,183.88,4267.37,Borewell,NPK,277.1,1026.63,Black,20.89
+CID62,2019-11-11,2019,Bihar,Bhagalpur,Rabi,Sugarcane,13.31,68.31,5132.07,Drip,Compost,285.67,700.47,Laterite,26.57
+CID63,2019-12-15,2019,Uttar Pradesh,Kanpur,Rabi,Wheat,10.04,67.99,6771.47,Canal,Compost,299.89,872.28,Alluvial,28.64
+CID64,2017-11-27,2017,Bihar,Bhagalpur,Rabi,Rice,99.7,360.45,3615.31,Drip,DAP,292.26,670.01,Laterite,25.0
+CID65,2022-02-12,2021,Maharashtra,Pune,Rabi,Maize,66.6,226.62,3402.71,Canal,Vermicompost,163.71,514.52,Alluvial,21.74
+CID66,2020-04-14,2020,West Bengal,Kolkata,Zaid,Sugarcane,41.91,89.08,2125.5,Rainfed,NPK,205.66,698.49,Laterite,31.4
+CID67,2014-11-24,2014,Bihar,Patna,Rabi,Cotton,48.99,57.48,1173.22,Borewell,DAP,227.45,510.75,Black,28.28
+CID68,2017-08-02,2017,West Bengal,Kolkata,Kharif,Cotton,83.38,332.71,3990.25,Rainfed,Compost,177.22,473.42,Laterite,34.7
+CID69,2016-10-08,2016,Bihar,Patna,Kharif,Pulses,51.32,322.08,6275.96,Canal,NPK,119.06,990.01,Laterite,25.1
+CID70,2014-05-06,2014,West Bengal,Kolkata,Zaid,Maize,83.91,375.88,4479.54,Drip,Vermicompost,266.32,646.55,Laterite,25.18
+CID71,2015-07-09,2015,Karnataka,Mysore,Kharif,Cotton,24.64,81.26,3297.83,Drip,Compost,60.91,944.71,Laterite,25.79
+CID72,2018-04-27,2018,Punjab,Ludhiana,Zaid,Maize,87.1,543.95,6245.14,Drip,DAP,74.93,1110.44,Black,30.84
+CID73,2023-01-21,2022,Punjab,Amritsar,Rabi,Maize,62.7,212.23,3384.9,Canal,Compost,262.94,1052.34,Sandy,25.7
+CID74,2010-05-19,2010,West Bengal,Darjeeling,Zaid,Wheat,24.24,123.78,5106.4,Rainfed,Urea,299.36,946.77,Laterite,34.68
+CID75,2022-03-25,2021,Karnataka,Bangalore,Rabi,Wheat,5.55,32.06,5776.86,Rainfed,DAP,139.62,630.69,Red,27.97
+CID76,2011-04-01,2011,Haryana,Gurgaon,Zaid,Sugarcane,62.35,152.44,2444.98,Borewell,Compost,108.05,837.9,Laterite,23.83
+CID77,2018-08-17,2018,Maharashtra,Mumbai,Kharif,Wheat,44.73,137.47,3073.39,Rainfed,DAP,209.73,624.31,Alluvial,26.85
+CID78,2011-10-23,2011,Karnataka,Mysore,Kharif,Sugarcane,57.62,256.34,4448.87,Rainfed,Urea,55.48,1030.04,Laterite,24.12
+CID79,2017-11-11,2017,Bihar,Bhagalpur,Rabi,Rice,61.1,190.26,3113.93,Borewell,NPK,205.22,877.76,Red,29.42
+CID80,2010-05-05,2010,West Bengal,Howrah,Zaid,Maize,73.5,113.25,1540.8,Rainfed,NPK,131.68,615.5,Red,21.98
+CID81,2014-06-20,2014,Bihar,Bhagalpur,Kharif,Maize,91.49,609.79,6665.13,Rainfed,DAP,236.64,538.72,Black,27.02
+CID82,2020-04-30,2020,West Bengal,Kolkata,Zaid,Cotton,98.01,666.82,6803.62,Rainfed,NPK,72.58,594.57,Alluvial,28.05
+CID83,2021-03-24,2020,Uttar Pradesh,Varanasi,Rabi,Pulses,38.72,187.07,4831.3,Rainfed,NPK,77.09,433.82,Black,29.29
+CID84,2020-08-17,2020,Bihar,Patna,Kharif,Cotton,82.56,533.03,6456.33,Rainfed,Compost,212.31,316.68,Black,34.19
+CID85,2013-05-24,2013,Punjab,Ludhiana,Zaid,Rice,39.48,127.37,3226.07,Drip,Compost,196.84,926.6,Laterite,29.82
+CID86,2014-08-31,2014,Bihar,Gaya,Kharif,Cotton,37.68,137.92,3660.3,Borewell,Urea,263.86,299.35,Alluvial,28.17
+CID87,2013-07-23,2013,Karnataka,Mysore,Kharif,Sugarcane,10.08,22.91,2272.63,Canal,Urea,62.64,533.51,Red,31.8
+CID88,2013-04-10,2013,West Bengal,Darjeeling,Zaid,Rice,81.49,195.41,2397.99,Borewell,DAP,247.16,795.98,Alluvial,32.88
+CID89,2022-07-15,2022,Bihar,Gaya,Kharif,Wheat,66.44,76.72,1154.68,Canal,NPK,139.56,988.43,Sandy,24.86
+CID90,2021-12-27,2021,Punjab,Ludhiana,Rabi,Pulses,12.25,16.92,1381.35,Drip,Vermicompost,244.5,713.24,Black,26.78
+CID91,2022-04-07,2022,Punjab,Patiala,Zaid,Pulses,30.86,149.98,4860.04,Canal,Compost,65.21,678.98,Laterite,26.39
+CID92,2011-10-31,2011,Uttar Pradesh,Kanpur,Kharif,Maize,61.22,85.35,1394.09,Rainfed,Vermicompost,206.08,785.36,Alluvial,25.71
+CID93,2018-04-30,2018,Maharashtra,Pune,Zaid,Sugarcane,10.82,56.38,5210.68,Borewell,Compost,157.52,1088.09,Laterite,25.08
+CID94,2011-11-24,2011,Karnataka,Hubli,Rabi,Sugarcane,31.94,80.79,2529.34,Borewell,Compost,221.71,674.27,Black,32.48
+CID95,2021-11-14,2021,Punjab,Patiala,Rabi,Rice,56.08,253.41,4518.79,Rainfed,NPK,217.5,610.81,Laterite,33.02
+CID96,2015-08-11,2015,Bihar,Gaya,Kharif,Pulses,51.23,98.79,1928.38,Drip,Vermicompost,106.06,308.22,Sandy,25.51
+CID97,2018-04-23,2018,Haryana,Faridabad,Zaid,Pulses,67.82,294.37,4340.44,Rainfed,Urea,57.24,473.27,Alluvial,33.82
+CID98,2019-04-22,2019,Haryana,Gurgaon,Zaid,Sugarcane,7.89,42.97,5445.81,Canal,DAP,72.94,730.48,Laterite,26.3
+CID99,2022-02-17,2021,Maharashtra,Pune,Rabi,Pulses,60.03,378.19,6300.05,Borewell,Compost,89.35,817.84,Black,24.08
+CID100,2017-01-18,2016,Bihar,Gaya,Rabi,Rice,75.74,127.46,1682.91,Drip,Urea,77.72,878.22,Sandy,27.3
+CID101,2019-09-19,2019,Haryana,Faridabad,Kharif,Wheat,21.24,141.71,6671.94,Borewell,DAP,241.04,489.45,Black,20.12
+CID102,2018-04-30,2018,Haryana,Faridabad,Zaid,Rice,50.53,303.19,6000.13,Rainfed,Urea,68.02,1061.76,Black,26.54
+CID103,2020-02-26,2019,West Bengal,Howrah,Rabi,Pulses,41.04,198.67,4840.85,Rainfed,NPK,78.79,220.86,Alluvial,22.58
+CID104,2011-07-14,2011,Punjab,Amritsar,Kharif,Sugarcane,59.3,245.73,4143.78,Drip,Urea,267.63,945.8,Red,25.0
+CID105,2011-04-10,2011,Bihar,Bhagalpur,Zaid,Pulses,20.2,114.28,5657.37,Rainfed,NPK,231.84,1018.95,Red,23.54
+CID106,2019-10-23,2019,Haryana,Gurgaon,Kharif,Cotton,8.46,56.75,6707.75,Drip,Vermicompost,165.99,763.74,Sandy,26.73
+CID107,2015-08-19,2015,Maharashtra,Mumbai,Kharif,Sugarcane,7.76,28.35,3653.25,Rainfed,Compost,249.08,791.42,Alluvial,27.61
+CID108,2010-11-11,2010,Karnataka,Bangalore,Rabi,Maize,8.6,53.2,6185.5,Canal,Compost,203.75,707.07,Laterite,28.7
+CID109,2020-06-22,2020,West Bengal,Darjeeling,Kharif,Maize,60.9,244.1,4008.2,Canal,Vermicompost,162.63,1010.97,Alluvial,34.74
+CID110,2010-08-26,2010,Uttar Pradesh,Lucknow,Kharif,Cotton,44.34,161.24,3636.53,Borewell,Vermicompost,140.97,1117.94,Laterite,26.13
+CID111,2021-01-25,2020,Punjab,Patiala,Rabi,Wheat,33.64,146.26,4347.78,Drip,Urea,121.04,923.73,Sandy,33.1
+CID112,2013-02-05,2012,Bihar,Bhagalpur,Rabi,Maize,96.8,502.48,5190.88,Drip,NPK,82.24,908.83,Black,24.64
+CID113,2020-04-20,2020,West Bengal,Kolkata,Zaid,Cotton,99.72,645.66,6474.69,Canal,DAP,211.51,623.41,Alluvial,20.27
+CID114,2023-03-15,2022,Haryana,Faridabad,Rabi,Rice,23.43,42.77,1825.39,Canal,Urea,123.95,988.12,Sandy,31.56
+CID115,2022-04-03,2022,Uttar Pradesh,Kanpur,Zaid,Rice,60.13,115.78,1925.52,Borewell,Compost,257.84,971.1,Red,30.82
+CID116,2021-07-20,2021,Maharashtra,Mumbai,Kharif,Sugarcane,61.45,338.86,5514.35,Drip,NPK,108.5,439.17,Laterite,33.56
+CID117,2018-01-04,2017,Uttar Pradesh,Varanasi,Rabi,Maize,78.03,313.48,4017.44,Drip,Urea,291.57,1016.89,Sandy,22.08
+CID118,2015-05-03,2015,Uttar Pradesh,Kanpur,Zaid,Wheat,71.43,292.54,4095.46,Canal,DAP,121.27,963.12,Alluvial,26.74
+CID119,2011-06-21,2011,West Bengal,Howrah,Kharif,Sugarcane,88.58,583.11,6582.83,Drip,NPK,63.31,702.01,Red,25.79
+CID120,2015-07-06,2015,Haryana,Gurgaon,Kharif,Cotton,65.35,375.65,5748.28,Borewell,Compost,59.58,1117.4,Laterite,30.44
+CID121,2010-08-01,2010,Karnataka,Hubli,Kharif,Wheat,26.34,158.3,6009.78,Drip,Compost,77.8,488.1,Alluvial,21.83
+CID122,2017-06-01,2017,Uttar Pradesh,Varanasi,Kharif,Wheat,83.83,335.23,3998.98,Canal,Vermicompost,207.99,775.05,Red,24.37
+CID123,2020-03-09,2019,Maharashtra,Nagpur,Rabi,Rice,66.77,101.07,1513.68,Rainfed,Vermicompost,66.92,726.06,Sandy,31.8
+CID124,2017-06-27,2017,Punjab,Amritsar,Kharif,Cotton,39.3,127.32,3239.81,Canal,Vermicompost,139.27,267.56,Red,30.99
+CID125,2012-07-05,2012,Uttar Pradesh,Kanpur,Kharif,Maize,55.06,323.81,5881.05,Borewell,Urea,257.6,884.68,Laterite,29.48
+CID126,2011-03-20,2010,Uttar Pradesh,Kanpur,Rabi,Rice,5.34,11.73,2196.82,Canal,Compost,128.9,510.08,Laterite,34.84
+CID127,2022-04-28,2022,Maharashtra,Nagpur,Zaid,Rice,29.32,180.99,6172.83,Canal,Compost,266.45,531.92,Black,31.99
+CID128,2016-12-17,2016,Uttar Pradesh,Kanpur,Rabi,Rice,50.12,199.74,3985.14,Rainfed,Vermicompost,250.29,927.08,Black,26.46
+CID129,2011-08-30,2011,Maharashtra,Pune,Kharif,Maize,66.43,188.59,2838.98,Drip,Vermicompost,91.66,643.91,Laterite,20.64
+CID130,2020-09-21,2020,Karnataka,Mysore,Kharif,Wheat,67.45,231.84,3437.26,Borewell,Urea,288.2,342.78,Sandy,30.17
+CID131,2013-05-19,2013,Haryana,Gurgaon,Zaid,Maize,36.85,246.78,6696.8,Canal,Urea,201.27,879.06,Alluvial,25.58
+CID132,2019-03-24,2018,Bihar,Patna,Rabi,Sugarcane,32.12,85.83,2672.14,Canal,Urea,56.48,386.05,Sandy,25.8
+CID133,2022-02-22,2021,Maharashtra,Pune,Rabi,Rice,99.64,270.37,2713.46,Drip,Urea,100.04,335.73,Black,26.78
+CID134,2015-05-03,2015,West Bengal,Darjeeling,Zaid,Maize,71.24,306.33,4299.98,Rainfed,DAP,272.83,1051.36,Red,31.91
+CID135,2022-06-23,2022,Punjab,Ludhiana,Kharif,Rice,79.25,91.75,1157.7,Rainfed,Urea,166.85,1183.01,Red,29.18
+CID136,2021-05-14,2021,Maharashtra,Pune,Zaid,Sugarcane,53.04,297.82,5614.99,Canal,Vermicompost,81.33,517.03,Black,26.75
+CID137,2022-05-04,2022,Maharashtra,Nagpur,Zaid,Cotton,59.19,331.86,5606.69,Borewell,DAP,158.15,1110.71,Black,32.47
+CID138,2013-01-17,2012,Maharashtra,Nagpur,Rabi,Cotton,23.32,155.89,6684.9,Rainfed,Vermicompost,261.48,450.61,Sandy,24.12
+CID139,2018-05-30,2018,Bihar,Patna,Zaid,Rice,59.59,267.19,4483.88,Borewell,Vermicompost,214.68,920.63,Sandy,25.06
+CID140,2011-10-18,2011,Punjab,Ludhiana,Kharif,Cotton,77.33,200.13,2587.94,Borewell,NPK,241.74,616.59,Black,27.47
+CID141,2017-07-07,2017,Uttar Pradesh,Kanpur,Kharif,Cotton,41.2,153.32,3721.26,Canal,NPK,89.52,615.62,Laterite,23.06
+CID142,2015-04-18,2015,West Bengal,Darjeeling,Zaid,Maize,97.56,174.11,1784.6,Rainfed,Compost,178.75,306.18,Red,27.0
+CID143,2011-10-26,2011,Haryana,Gurgaon,Kharif,Maize,94.59,585.04,6184.98,Drip,NPK,112.07,1065.31,Red,32.2
+CID144,2017-04-14,2017,Haryana,Gurgaon,Zaid,Sugarcane,50.38,143.65,2851.24,Canal,Vermicompost,72.51,593.24,Laterite,34.5
+CID145,2011-01-07,2010,Maharashtra,Nagpur,Rabi,Sugarcane,60.15,364.33,6057.1,Drip,NPK,121.44,208.18,Black,26.46
+CID146,2015-10-19,2015,West Bengal,Howrah,Kharif,Sugarcane,6.06,26.49,4370.9,Rainfed,NPK,188.31,273.53,Sandy,26.76
+CID147,2020-04-13,2020,West Bengal,Darjeeling,Zaid,Wheat,13.74,21.71,1580.09,Rainfed,Vermicompost,248.72,539.09,Alluvial,31.32
+CID148,2018-08-21,2018,Bihar,Gaya,Kharif,Wheat,4.85,25.62,5281.55,Drip,DAP,179.83,348.94,Sandy,22.1
+CID149,2021-11-29,2021,Karnataka,Hubli,Rabi,Pulses,34.3,204.76,5969.74,Drip,Compost,227.18,499.79,Black,25.53
+CID150,2022-05-17,2022,Bihar,Gaya,Zaid,Cotton,63.3,290.01,4581.46,Rainfed,Urea,291.77,982.9,Sandy,28.66
+CID151,2012-05-15,2012,Bihar,Gaya,Zaid,Cotton,72.4,408.89,5647.64,Drip,Urea,86.94,880.73,Black,28.59
+CID152,2017-11-16,2017,Haryana,Gurgaon,Rabi,Sugarcane,15.99,82.24,5143.0,Drip,DAP,175.45,811.48,Laterite,33.09
+CID153,2019-01-07,2018,Bihar,Patna,Rabi,Cotton,48.36,157.7,3260.95,Borewell,Vermicompost,164.92,733.13,Sandy,25.31
+CID154,2014-01-29,2013,Karnataka,Bangalore,Rabi,Pulses,30.55,203.12,6648.91,Rainfed,Vermicompost,242.79,904.9,Laterite,24.76
+CID155,2015-01-13,2014,West Bengal,Darjeeling,Rabi,Wheat,57.77,246.05,4259.15,Drip,Urea,254.59,1154.61,Red,24.36
+CID156,2021-03-31,2020,Maharashtra,Pune,Rabi,Cotton,48.43,107.15,2212.41,Rainfed,DAP,283.26,896.17,Red,21.64
+CID157,2020-05-06,2020,Haryana,Gurgaon,Zaid,Rice,64.16,84.37,1314.95,Drip,DAP,132.57,672.4,Red,20.08
+CID158,2017-12-30,2017,Karnataka,Hubli,Rabi,Cotton,20.75,140.76,6783.48,Rainfed,Vermicompost,121.35,259.16,Black,29.78
+CID159,2010-08-14,2010,Uttar Pradesh,Varanasi,Kharif,Sugarcane,88.34,181.51,2054.73,Canal,Urea,299.29,596.99,Laterite,22.79
+CID160,2019-04-09,2019,Punjab,Amritsar,Zaid,Wheat,92.92,279.71,3010.25,Drip,Vermicompost,297.27,743.3,Laterite,33.34
+CID161,2013-10-24,2013,Karnataka,Mysore,Kharif,Maize,17.09,64.15,3753.49,Rainfed,DAP,229.65,214.08,Alluvial,31.86
+CID162,2020-11-02,2020,Haryana,Hisar,Rabi,Sugarcane,52.01,79.08,1520.43,Canal,NPK,96.2,340.61,Alluvial,34.04
+CID163,2017-12-01,2017,Karnataka,Bangalore,Rabi,Maize,30.89,164.87,5337.3,Canal,Compost,115.39,559.55,Red,20.93
+CID164,2016-04-15,2016,Maharashtra,Nagpur,Zaid,Pulses,92.39,584.53,6326.81,Rainfed,DAP,222.57,838.71,Alluvial,25.51
+CID165,2012-11-21,2012,Haryana,Faridabad,Rabi,Cotton,98.89,320.58,3241.75,Drip,Vermicompost,239.34,1001.99,Red,31.43
+CID166,2022-02-22,2021,Karnataka,Hubli,Rabi,Wheat,91.81,153.62,1673.25,Borewell,Urea,193.18,349.85,Alluvial,32.82
+CID167,2021-05-06,2021,Uttar Pradesh,Lucknow,Zaid,Sugarcane,10.0,40.62,4062.25,Canal,Compost,163.36,713.25,Laterite,28.46
+CID168,2021-10-17,2021,Uttar Pradesh,Kanpur,Kharif,Sugarcane,26.19,26.66,1018.09,Borewell,Urea,194.58,245.29,Alluvial,30.51
+CID169,2011-02-05,2010,Punjab,Amritsar,Rabi,Sugarcane,18.82,34.11,1812.57,Drip,Compost,143.62,1091.33,Laterite,33.04
+CID170,2020-04-15,2020,Punjab,Patiala,Zaid,Rice,65.7,202.79,3086.62,Borewell,Urea,298.21,593.06,Red,30.92
+CID171,2014-12-19,2014,West Bengal,Kolkata,Rabi,Cotton,72.19,255.9,3544.77,Drip,Urea,255.84,447.51,Alluvial,22.33
+CID172,2016-04-03,2016,Punjab,Patiala,Zaid,Wheat,24.83,34.86,1403.75,Canal,Compost,161.61,872.02,Black,23.67
+CID173,2018-08-22,2018,Karnataka,Bangalore,Kharif,Wheat,14.87,103.51,6960.9,Borewell,DAP,253.95,931.52,Alluvial,28.66
+CID174,2020-04-23,2020,Maharashtra,Nagpur,Zaid,Rice,41.94,111.18,2650.92,Borewell,Compost,206.5,627.2,Laterite,20.7
+CID175,2015-05-16,2015,West Bengal,Darjeeling,Zaid,Sugarcane,41.42,115.95,2799.33,Borewell,DAP,238.6,673.52,Red,24.51
+CID176,2010-05-30,2010,West Bengal,Howrah,Zaid,Sugarcane,96.81,420.52,4343.72,Borewell,Compost,147.1,455.0,Alluvial,29.7
+CID177,2011-05-19,2011,West Bengal,Howrah,Zaid,Cotton,83.11,108.81,1309.22,Drip,Vermicompost,218.42,802.92,Black,22.82
+CID178,2018-07-01,2018,Uttar Pradesh,Varanasi,Kharif,Sugarcane,21.68,139.67,6442.2,Rainfed,Compost,289.25,215.33,Red,34.43
+CID179,2019-04-20,2019,Haryana,Hisar,Zaid,Rice,40.27,98.1,2435.99,Rainfed,NPK,243.88,580.66,Sandy,29.73
+CID180,2017-12-27,2017,Maharashtra,Mumbai,Rabi,Wheat,80.48,429.32,5334.48,Rainfed,DAP,278.58,570.7,Laterite,20.69
+CID181,2018-05-12,2018,Punjab,Amritsar,Zaid,Pulses,72.28,200.3,2771.15,Borewell,NPK,132.47,579.84,Red,27.49
+CID182,2021-05-27,2021,Maharashtra,Pune,Zaid,Cotton,49.57,99.61,2009.4,Rainfed,Vermicompost,92.32,920.31,Laterite,22.76
+CID183,2018-07-09,2018,Uttar Pradesh,Lucknow,Kharif,Wheat,94.57,473.73,5009.29,Canal,Urea,153.1,1042.54,Red,21.02
+CID184,2017-11-04,2017,Haryana,Hisar,Rabi,Wheat,62.17,310.88,5000.53,Drip,Urea,214.82,215.73,Sandy,28.27
+CID185,2014-05-04,2014,Bihar,Bhagalpur,Zaid,Maize,2.7,15.87,5878.94,Drip,DAP,251.54,1109.77,Black,33.77
+CID186,2019-05-15,2019,Haryana,Gurgaon,Zaid,Maize,81.71,212.77,2603.95,Drip,DAP,69.75,1159.3,Laterite,28.48
+CID187,2011-04-06,2011,Maharashtra,Mumbai,Zaid,Cotton,76.2,118.95,1561.0,Drip,Compost,144.29,676.01,Black,30.54
+CID188,2020-11-12,2020,West Bengal,Howrah,Rabi,Pulses,97.76,668.98,6843.04,Canal,Urea,107.44,1101.27,Sandy,27.13
+CID189,2018-05-16,2018,Uttar Pradesh,Kanpur,Zaid,Cotton,4.26,28.0,6572.6,Rainfed,Compost,53.91,407.16,Red,31.28
+CID190,2012-04-23,2012,Punjab,Amritsar,Zaid,Rice,57.1,348.12,6096.65,Rainfed,Urea,145.96,939.75,Black,27.51
+CID191,2013-09-24,2013,Punjab,Amritsar,Kharif,Maize,60.91,285.25,4683.19,Drip,Compost,292.23,526.38,Alluvial,31.75
+CID192,2018-11-22,2018,Haryana,Faridabad,Rabi,Sugarcane,19.39,87.55,4515.25,Drip,NPK,71.42,818.62,Red,30.7
+CID193,2021-04-18,2021,Haryana,Faridabad,Zaid,Rice,74.23,215.27,2900.07,Canal,Urea,72.88,1142.96,Laterite,25.4
+CID194,2013-01-23,2012,Haryana,Gurgaon,Rabi,Sugarcane,56.14,228.75,4074.65,Canal,Compost,56.57,553.91,Black,28.95
+CID195,2017-01-08,2016,Punjab,Amritsar,Rabi,Wheat,72.76,317.03,4357.22,Borewell,NPK,192.99,369.58,Laterite,22.54
+CID196,2012-10-05,2012,Maharashtra,Pune,Kharif,Rice,44.03,155.28,3526.61,Drip,Vermicompost,245.67,561.12,Red,30.81
+CID197,2017-09-19,2017,Bihar,Patna,Kharif,Rice,31.16,208.55,6692.94,Rainfed,Vermicompost,260.4,579.89,Alluvial,26.6
+CID198,2015-05-21,2015,Haryana,Faridabad,Zaid,Cotton,20.88,60.24,2885.1,Drip,DAP,292.18,491.45,Laterite,34.52
+CID199,2014-12-24,2014,Maharashtra,Pune,Rabi,Maize,12.27,53.78,4383.1,Borewell,Compost,220.43,750.1,Laterite,34.14
+CID200,2021-06-19,2021,West Bengal,Howrah,Kharif,Sugarcane,67.62,124.09,1835.07,Rainfed,Compost,110.51,858.66,Laterite,31.84
+CID201,2020-03-17,2019,Bihar,Gaya,Rabi,Pulses,51.15,333.62,6522.35,Drip,Vermicompost,185.91,990.72,Alluvial,30.52
+CID202,2011-08-24,2011,Uttar Pradesh,Lucknow,Kharif,Cotton,66.8,133.47,1998.03,Canal,Compost,190.81,845.03,Laterite,34.5
+CID203,2011-12-09,2011,Punjab,Ludhiana,Rabi,Rice,51.56,212.06,4112.79,Borewell,NPK,161.44,591.13,Sandy,30.36
+CID204,2012-01-29,2011,Punjab,Amritsar,Rabi,Sugarcane,92.13,139.59,1515.13,Borewell,Compost,137.08,543.07,Red,27.82
+CID205,2021-04-11,2021,Punjab,Amritsar,Zaid,Sugarcane,32.57,91.25,2801.58,Canal,DAP,55.65,543.08,Black,30.16
+CID206,2018-09-19,2018,Bihar,Patna,Kharif,Maize,56.43,380.95,6750.78,Borewell,Compost,249.44,829.76,Red,29.61
+CID207,2019-10-16,2019,Punjab,Patiala,Kharif,Sugarcane,59.63,198.75,3333.01,Borewell,DAP,101.45,952.33,Black,28.66
+CID208,2014-01-30,2013,Maharashtra,Pune,Rabi,Wheat,26.97,166.56,6175.82,Rainfed,Compost,199.24,811.31,Sandy,21.71
+CID209,2020-05-15,2020,Bihar,Patna,Zaid,Maize,91.95,417.55,4541.01,Borewell,DAP,128.3,438.57,Black,22.75
+CID210,2016-05-02,2016,Bihar,Gaya,Zaid,Rice,57.91,204.9,3538.23,Drip,NPK,208.88,893.43,Red,28.32
+CID211,2016-03-09,2015,Haryana,Gurgaon,Rabi,Pulses,6.31,19.9,3154.24,Canal,Compost,171.15,395.13,Laterite,34.46
+CID212,2018-01-10,2017,Karnataka,Hubli,Rabi,Cotton,84.15,330.89,3932.2,Canal,DAP,191.35,995.88,Red,24.38
+CID213,2013-02-02,2012,Bihar,Gaya,Rabi,Pulses,74.51,416.92,5595.52,Canal,Vermicompost,193.18,467.89,Sandy,32.35
+CID214,2022-04-03,2022,West Bengal,Kolkata,Zaid,Sugarcane,55.09,382.25,6938.65,Canal,Compost,234.0,853.67,Red,24.47
+CID215,2011-12-06,2011,Maharashtra,Pune,Rabi,Wheat,77.79,188.38,2421.68,Rainfed,DAP,265.26,810.26,Laterite,22.49
+CID216,2022-10-10,2022,West Bengal,Kolkata,Kharif,Pulses,35.73,95.99,2686.51,Borewell,Urea,130.91,904.05,Alluvial,28.59
+CID217,2011-02-09,2010,Haryana,Faridabad,Rabi,Cotton,13.56,84.02,6196.47,Borewell,Compost,86.56,522.1,Red,31.42
+CID218,2021-03-05,2020,Haryana,Hisar,Rabi,Cotton,42.01,155.94,3711.95,Canal,NPK,150.71,949.8,Alluvial,26.82
+CID219,2022-04-28,2022,Bihar,Patna,Zaid,Wheat,73.36,275.15,3750.7,Rainfed,DAP,262.53,995.68,Laterite,23.27
+CID220,2016-02-26,2015,Karnataka,Mysore,Rabi,Maize,55.18,98.42,1783.57,Drip,Urea,247.08,1094.15,Black,20.69
+CID221,2018-02-01,2017,Punjab,Ludhiana,Rabi,Wheat,99.19,353.79,3566.8,Borewell,NPK,270.54,501.87,Alluvial,21.4
+CID222,2020-05-01,2020,Punjab,Amritsar,Zaid,Rice,6.13,29.14,4753.63,Borewell,Urea,157.31,291.2,Black,20.02
+CID223,2013-05-01,2013,Haryana,Hisar,Zaid,Cotton,45.06,47.24,1048.38,Rainfed,Urea,254.28,1188.15,Laterite,30.41
+CID224,2011-05-14,2011,Haryana,Faridabad,Zaid,Wheat,11.22,35.96,3205.37,Rainfed,DAP,84.28,973.46,Red,29.62
+CID225,2019-09-22,2019,Punjab,Patiala,Kharif,Pulses,65.35,237.91,3640.6,Borewell,DAP,207.02,351.37,Laterite,29.24
+CID226,2012-08-03,2012,Punjab,Ludhiana,Kharif,Pulses,73.27,227.81,3109.21,Drip,Vermicompost,128.63,339.83,Alluvial,29.67
+CID227,2021-04-19,2021,Bihar,Bhagalpur,Zaid,Maize,78.12,401.76,5142.86,Rainfed,Urea,101.36,806.93,Red,31.22
+CID228,2017-12-04,2017,West Bengal,Kolkata,Rabi,Wheat,24.87,120.08,4828.49,Canal,Compost,182.07,1177.7,Alluvial,34.01
+CID229,2016-11-16,2016,West Bengal,Darjeeling,Rabi,Pulses,68.61,382.59,5576.36,Canal,Compost,54.17,267.53,Alluvial,23.24
+CID230,2020-04-06,2020,Bihar,Gaya,Zaid,Pulses,76.94,272.48,3541.45,Drip,NPK,70.61,736.56,Sandy,22.29
+CID231,2013-06-23,2013,Punjab,Patiala,Kharif,Pulses,33.35,150.7,4518.62,Canal,Compost,127.54,637.49,Red,20.87
+CID232,2019-05-31,2019,Punjab,Amritsar,Zaid,Wheat,31.62,172.33,5450.16,Borewell,NPK,79.86,907.9,Black,22.46
+CID233,2022-04-28,2022,Bihar,Bhagalpur,Zaid,Maize,17.53,30.88,1761.58,Rainfed,NPK,233.23,318.06,Black,25.03
+CID234,2014-04-17,2014,Bihar,Patna,Zaid,Pulses,63.13,251.06,3976.89,Rainfed,Urea,63.86,1059.36,Red,25.52
+CID235,2021-07-16,2021,Bihar,Bhagalpur,Kharif,Rice,74.34,75.49,1015.41,Canal,Urea,111.14,671.76,Laterite,33.8
+CID236,2021-05-14,2021,Bihar,Bhagalpur,Zaid,Sugarcane,23.23,57.83,2489.58,Rainfed,Urea,117.81,277.89,Alluvial,21.79
+CID237,2022-05-06,2022,Haryana,Gurgaon,Zaid,Wheat,95.45,134.92,1413.56,Drip,Compost,266.51,973.53,Alluvial,24.91
+CID238,2013-12-21,2013,Punjab,Amritsar,Rabi,Pulses,78.67,427.76,5437.46,Borewell,Vermicompost,165.98,791.69,Laterite,34.97
+CID239,2012-08-18,2012,West Bengal,Kolkata,Kharif,Sugarcane,3.37,14.32,4249.27,Canal,Urea,287.75,201.46,Laterite,32.74
+CID240,2014-03-14,2013,Haryana,Hisar,Rabi,Sugarcane,96.16,657.29,6835.36,Borewell,Compost,227.91,293.03,Red,33.46
+CID241,2017-04-09,2017,Uttar Pradesh,Kanpur,Zaid,Wheat,58.5,235.91,4032.57,Drip,DAP,68.71,767.82,Laterite,29.94
+CID242,2016-03-29,2015,Maharashtra,Pune,Rabi,Cotton,83.36,246.54,2957.51,Drip,Urea,117.99,274.69,Red,22.04
+CID243,2012-12-01,2012,Haryana,Gurgaon,Rabi,Sugarcane,32.09,55.34,1724.42,Rainfed,Urea,291.16,407.64,Alluvial,26.95
+CID244,2014-04-04,2014,Haryana,Hisar,Zaid,Cotton,60.73,139.08,2290.12,Rainfed,NPK,87.08,911.16,Alluvial,25.94
+CID245,2010-11-16,2010,Maharashtra,Nagpur,Rabi,Sugarcane,56.04,241.01,4300.73,Canal,DAP,165.51,1003.9,Red,21.82
+CID246,2017-02-22,2016,Haryana,Gurgaon,Rabi,Cotton,63.4,308.64,4868.11,Rainfed,DAP,279.36,274.99,Black,22.97
+CID247,2011-09-18,2011,Punjab,Amritsar,Kharif,Sugarcane,6.01,39.33,6544.79,Drip,DAP,255.42,595.0,Black,25.74
+CID248,2012-11-23,2012,Maharashtra,Nagpur,Rabi,Maize,45.16,85.43,1891.79,Borewell,NPK,211.82,698.89,Sandy,27.19
+CID249,2016-10-03,2016,Karnataka,Bangalore,Kharif,Cotton,88.58,368.04,4154.88,Canal,NPK,297.35,981.92,Alluvial,27.2
+CID250,2016-02-29,2015,Bihar,Bhagalpur,Rabi,Maize,18.8,54.77,2913.27,Borewell,Vermicompost,57.33,1010.69,Alluvial,20.88
+CID251,2013-09-08,2013,Maharashtra,Mumbai,Kharif,Wheat,25.54,62.49,2446.92,Canal,NPK,241.01,1147.8,Sandy,32.7
+CID252,2012-10-23,2012,West Bengal,Kolkata,Kharif,Pulses,32.48,176.32,5428.63,Rainfed,DAP,278.5,228.21,Alluvial,34.21
+CID253,2022-11-01,2022,Bihar,Patna,Rabi,Pulses,31.6,124.59,3942.62,Canal,NPK,64.04,801.66,Black,27.9
+CID254,2022-10-13,2022,Bihar,Patna,Kharif,Maize,71.98,468.78,6512.68,Rainfed,NPK,64.89,347.71,Red,31.62
+CID255,2021-05-02,2021,Punjab,Amritsar,Zaid,Sugarcane,59.02,178.2,3019.37,Rainfed,NPK,84.11,357.5,Laterite,31.88
+CID256,2018-05-17,2018,Haryana,Hisar,Zaid,Pulses,78.91,184.6,2339.42,Borewell,Urea,144.6,933.99,Alluvial,21.91
+CID257,2016-05-18,2016,Uttar Pradesh,Varanasi,Zaid,Wheat,19.03,55.36,2909.3,Borewell,Urea,209.91,304.11,Laterite,22.11
+CID258,2015-08-29,2015,Haryana,Faridabad,Kharif,Cotton,88.65,135.84,1532.36,Rainfed,NPK,161.66,465.21,Red,30.4
+CID259,2021-09-05,2021,West Bengal,Kolkata,Kharif,Wheat,39.21,211.56,5395.51,Borewell,Urea,271.14,693.08,Laterite,25.27
+CID260,2022-04-17,2022,West Bengal,Howrah,Zaid,Cotton,76.07,179.03,2353.5,Drip,Urea,68.43,1045.76,Alluvial,20.3
+CID261,2013-02-19,2012,Punjab,Amritsar,Rabi,Rice,73.47,314.62,4282.28,Canal,DAP,134.49,1185.28,Laterite,30.57
+CID262,2012-08-12,2012,Bihar,Gaya,Kharif,Wheat,33.78,231.27,6846.39,Drip,NPK,224.3,922.04,Sandy,23.98
+CID263,2011-03-03,2010,Haryana,Gurgaon,Rabi,Pulses,55.42,218.67,3945.69,Canal,DAP,140.21,627.61,Alluvial,32.36
+CID264,2013-08-07,2013,Punjab,Ludhiana,Kharif,Cotton,29.89,44.58,1491.62,Canal,Urea,127.09,597.47,Laterite,33.42
+CID265,2016-08-08,2016,Uttar Pradesh,Varanasi,Kharif,Maize,88.66,285.17,3216.41,Drip,Vermicompost,61.15,639.74,Alluvial,23.39
+CID266,2022-04-25,2022,Punjab,Ludhiana,Zaid,Cotton,10.57,52.94,5008.85,Drip,Vermicompost,292.68,789.73,Sandy,20.91
+CID267,2021-03-13,2020,Karnataka,Hubli,Rabi,Pulses,88.28,340.55,3857.57,Canal,Vermicompost,148.7,1053.94,Black,27.53
+CID268,2012-09-20,2012,Uttar Pradesh,Varanasi,Kharif,Sugarcane,18.12,125.14,6906.21,Borewell,DAP,252.12,326.19,Laterite,21.18
+CID269,2012-04-18,2012,West Bengal,Darjeeling,Zaid,Maize,32.66,175.14,5362.62,Canal,Vermicompost,71.76,756.36,Sandy,24.89
+CID270,2022-05-31,2022,Karnataka,Bangalore,Zaid,Pulses,59.17,336.68,5690.11,Canal,Urea,153.61,348.2,Sandy,28.74
+CID271,2022-06-10,2022,Punjab,Patiala,Kharif,Maize,86.88,545.68,6280.81,Drip,DAP,116.03,854.79,Sandy,29.13
+CID272,2012-05-01,2012,Maharashtra,Pune,Zaid,Pulses,68.4,233.27,3410.32,Drip,NPK,272.39,531.49,Red,20.74
+CID273,2016-02-22,2015,Maharashtra,Nagpur,Rabi,Maize,28.75,113.55,3949.72,Canal,NPK,293.12,427.96,Alluvial,34.61
+CID274,2016-05-03,2016,Maharashtra,Mumbai,Zaid,Cotton,9.84,35.92,3650.3,Drip,DAP,235.24,959.49,Alluvial,32.32
+CID275,2021-04-16,2021,Punjab,Amritsar,Zaid,Sugarcane,14.43,88.14,6107.77,Canal,Urea,93.43,1075.18,Red,32.55
+CID276,2015-05-02,2015,Karnataka,Bangalore,Zaid,Rice,28.12,167.06,5941.04,Drip,Vermicompost,208.85,323.87,Black,23.63
+CID277,2017-04-04,2017,Karnataka,Bangalore,Zaid,Pulses,35.63,70.59,1981.08,Rainfed,DAP,237.24,888.85,Alluvial,20.41
+CID278,2022-07-04,2022,West Bengal,Darjeeling,Kharif,Rice,65.09,329.76,5066.17,Rainfed,DAP,212.9,713.28,Black,27.11
+CID279,2013-12-26,2013,Bihar,Patna,Rabi,Pulses,80.7,228.6,2832.76,Rainfed,Compost,155.95,576.48,Alluvial,26.88
+CID280,2018-04-07,2018,Maharashtra,Mumbai,Zaid,Sugarcane,58.86,61.46,1044.09,Rainfed,Compost,190.36,793.77,Alluvial,24.48
+CID281,2014-05-22,2014,Punjab,Amritsar,Zaid,Maize,86.29,221.5,2566.88,Rainfed,Vermicompost,97.09,717.29,Red,33.5
+CID282,2015-05-08,2015,Karnataka,Hubli,Zaid,Rice,72.41,357.16,4932.4,Rainfed,Vermicompost,114.86,618.57,Laterite,31.05
+CID283,2015-04-11,2015,West Bengal,Kolkata,Zaid,Cotton,23.01,96.82,4207.81,Drip,Vermicompost,276.63,871.87,Sandy,24.5
+CID284,2011-12-28,2011,Haryana,Faridabad,Rabi,Rice,74.35,397.86,5351.12,Borewell,NPK,286.73,1099.59,Black,23.33
+CID285,2015-11-19,2015,Karnataka,Mysore,Rabi,Pulses,30.11,183.89,6107.28,Drip,Compost,63.42,834.4,Sandy,34.16
+CID286,2011-05-28,2011,Haryana,Hisar,Zaid,Sugarcane,53.45,185.93,3478.64,Borewell,Compost,84.34,400.3,Laterite,34.81
+CID287,2021-07-14,2021,Haryana,Faridabad,Kharif,Wheat,49.27,235.82,4786.2,Borewell,Vermicompost,128.35,258.01,Laterite,24.1
+CID288,2017-07-22,2017,West Bengal,Kolkata,Kharif,Rice,61.83,296.84,4800.93,Drip,NPK,157.26,677.4,Black,20.57
+CID289,2022-04-25,2022,Punjab,Amritsar,Zaid,Rice,2.77,2.84,1024.74,Borewell,Vermicompost,106.57,1076.99,Alluvial,21.93
+CID290,2012-10-04,2012,Bihar,Gaya,Kharif,Wheat,30.52,83.78,2744.97,Rainfed,NPK,158.42,886.78,Red,25.14
+CID291,2013-02-02,2012,West Bengal,Kolkata,Rabi,Wheat,23.61,126.62,5363.01,Borewell,Urea,102.8,221.91,Sandy,22.53
+CID292,2014-04-25,2014,Karnataka,Hubli,Zaid,Pulses,5.81,40.48,6968.08,Canal,Urea,213.39,219.74,Black,26.25
+CID293,2017-05-09,2017,Bihar,Gaya,Zaid,Rice,21.34,109.14,5114.44,Canal,DAP,125.28,861.66,Sandy,24.05
+CID294,2018-04-13,2018,Karnataka,Bangalore,Zaid,Pulses,12.66,21.32,1684.08,Canal,NPK,174.43,809.0,Alluvial,32.47
+CID295,2014-10-25,2014,Uttar Pradesh,Kanpur,Kharif,Wheat,55.27,357.16,6462.14,Drip,Compost,132.65,202.74,Black,33.6
+CID296,2022-04-04,2022,Haryana,Gurgaon,Zaid,Wheat,72.63,116.77,1607.74,Rainfed,Urea,211.08,656.75,Alluvial,23.96
+CID297,2010-12-06,2010,West Bengal,Kolkata,Rabi,Maize,80.36,231.13,2876.24,Canal,DAP,73.75,958.2,Black,20.15
+CID298,2017-04-25,2017,Maharashtra,Pune,Zaid,Maize,87.97,137.03,1557.71,Rainfed,Compost,95.72,600.78,Laterite,24.08
+CID299,2020-09-21,2020,West Bengal,Howrah,Kharif,Wheat,14.12,75.66,5358.47,Borewell,DAP,75.93,1111.23,Laterite,32.03
+CID300,2022-11-17,2022,Bihar,Gaya,Rabi,Pulses,3.85,19.66,5106.78,Borewell,NPK,170.77,688.12,Laterite,26.61
+CID301,2010-05-15,2010,Uttar Pradesh,Kanpur,Zaid,Cotton,52.96,289.25,5461.74,Borewell,Vermicompost,294.47,869.84,Alluvial,27.79
+CID302,2020-05-12,2020,Punjab,Amritsar,Zaid,Rice,48.71,242.69,4982.26,Drip,DAP,87.16,1026.44,Sandy,20.82
+CID303,2017-09-05,2017,Bihar,Gaya,Kharif,Wheat,75.39,220.43,2923.8,Rainfed,Compost,292.54,250.35,Red,28.26
+CID304,2011-11-05,2011,West Bengal,Kolkata,Rabi,Sugarcane,80.32,296.27,3688.59,Drip,Urea,161.77,318.71,Laterite,31.18
+CID305,2010-04-24,2010,Karnataka,Mysore,Zaid,Pulses,1.02,1.58,1545.37,Rainfed,Urea,272.53,762.33,Laterite,34.26
+CID306,2018-01-30,2017,West Bengal,Kolkata,Rabi,Pulses,76.97,354.04,4599.71,Rainfed,NPK,228.98,314.02,Red,20.03
+CID307,2015-05-10,2015,Bihar,Bhagalpur,Zaid,Wheat,5.53,10.98,1984.93,Borewell,DAP,255.46,942.51,Laterite,21.6
+CID308,2016-09-24,2016,Haryana,Gurgaon,Kharif,Sugarcane,82.63,177.11,2143.47,Rainfed,Compost,76.94,614.47,Sandy,21.85
+CID309,2018-07-16,2018,Uttar Pradesh,Varanasi,Kharif,Sugarcane,1.43,7.75,5417.28,Drip,Vermicompost,259.7,682.93,Sandy,31.72
+CID310,2012-08-03,2012,Haryana,Hisar,Kharif,Sugarcane,66.09,306.46,4636.96,Rainfed,NPK,176.03,584.66,Sandy,33.74
+CID311,2015-03-22,2014,Karnataka,Mysore,Rabi,Rice,14.68,67.75,4615.15,Rainfed,DAP,260.77,747.81,Alluvial,30.68
+CID312,2019-05-15,2019,Haryana,Gurgaon,Zaid,Maize,68.97,450.18,6527.15,Borewell,NPK,295.33,850.09,Red,27.56
+CID313,2023-02-17,2022,Uttar Pradesh,Lucknow,Rabi,Pulses,48.56,214.82,4423.83,Drip,Urea,218.56,1093.87,Sandy,24.29
+CID314,2010-12-08,2010,Bihar,Patna,Rabi,Rice,6.25,8.37,1339.63,Rainfed,Urea,237.55,360.94,Alluvial,30.25
+CID315,2013-05-21,2013,Uttar Pradesh,Kanpur,Zaid,Wheat,36.51,135.66,3715.57,Borewell,NPK,235.6,761.27,Red,27.66
+CID316,2011-02-22,2010,Uttar Pradesh,Varanasi,Rabi,Sugarcane,42.24,241.98,5728.67,Rainfed,DAP,291.46,253.8,Alluvial,23.05
+CID317,2021-05-14,2021,Uttar Pradesh,Varanasi,Zaid,Maize,75.76,324.23,4279.69,Borewell,Urea,244.04,1164.29,Alluvial,26.73
+CID318,2021-04-30,2021,Haryana,Gurgaon,Zaid,Wheat,38.34,136.91,3571.05,Rainfed,DAP,82.52,783.99,Alluvial,20.08
+CID319,2015-05-16,2015,Punjab,Ludhiana,Zaid,Wheat,77.59,368.72,4752.2,Rainfed,NPK,172.64,772.68,Alluvial,21.09
+CID320,2012-04-22,2012,Bihar,Patna,Zaid,Wheat,78.84,154.23,1956.22,Drip,NPK,72.99,421.2,Red,29.95
+CID321,2022-05-10,2022,Maharashtra,Nagpur,Zaid,Pulses,48.01,209.71,4368.01,Canal,Vermicompost,78.68,546.01,Red,33.57
+CID322,2021-02-04,2020,Haryana,Gurgaon,Rabi,Sugarcane,91.68,611.5,6669.93,Drip,Vermicompost,114.15,923.98,Black,33.67
+CID323,2018-03-18,2017,West Bengal,Darjeeling,Rabi,Wheat,30.35,148.99,4909.17,Rainfed,Vermicompost,178.47,1148.21,Red,34.57
+CID324,2011-06-19,2011,Punjab,Patiala,Kharif,Cotton,63.32,144.31,2279.05,Drip,DAP,258.92,405.58,Laterite,29.7
+CID325,2022-02-13,2021,Punjab,Amritsar,Rabi,Wheat,9.66,12.81,1325.61,Rainfed,Compost,189.52,774.96,Red,33.66
+CID326,2016-11-19,2016,Karnataka,Hubli,Rabi,Maize,2.67,13.46,5039.79,Canal,NPK,210.36,818.35,Sandy,20.68
+CID327,2014-05-05,2014,Bihar,Patna,Zaid,Maize,61.05,164.17,2689.1,Drip,DAP,145.35,1022.12,Black,27.11
+CID328,2016-04-03,2016,Haryana,Hisar,Zaid,Maize,96.05,179.08,1864.45,Rainfed,Urea,289.35,211.15,Sandy,22.12
+CID329,2016-04-12,2016,Bihar,Bhagalpur,Zaid,Pulses,94.75,267.97,2828.15,Rainfed,DAP,102.93,1105.63,Sandy,22.14
+CID330,2013-10-19,2013,Bihar,Gaya,Kharif,Rice,67.43,296.95,4403.76,Canal,Urea,262.85,1132.37,Sandy,26.92
+CID331,2011-11-18,2011,Maharashtra,Mumbai,Rabi,Wheat,20.54,92.09,4483.57,Rainfed,DAP,139.28,871.3,Red,21.5
+CID332,2017-12-14,2017,Maharashtra,Pune,Rabi,Pulses,66.28,342.05,5160.75,Borewell,Urea,191.39,564.49,Alluvial,34.38
+CID333,2022-08-31,2022,Maharashtra,Nagpur,Kharif,Cotton,74.24,268.51,3616.74,Rainfed,NPK,83.58,932.97,Laterite,26.94
+CID334,2011-06-05,2011,Karnataka,Hubli,Kharif,Cotton,61.06,369.46,6050.76,Borewell,Vermicompost,272.82,396.43,Black,30.91
+CID335,2019-05-20,2019,Uttar Pradesh,Lucknow,Zaid,Sugarcane,77.15,175.64,2276.56,Canal,DAP,187.9,743.47,Sandy,27.08
+CID336,2013-05-22,2013,Maharashtra,Pune,Zaid,Cotton,85.86,154.83,1803.29,Canal,Vermicompost,149.2,702.17,Red,32.72
+CID337,2022-05-19,2022,Uttar Pradesh,Lucknow,Zaid,Rice,45.18,93.74,2074.87,Borewell,Compost,233.98,683.5,Alluvial,20.61
+CID338,2015-01-22,2014,Haryana,Gurgaon,Rabi,Rice,5.24,11.74,2240.64,Rainfed,Urea,147.02,1117.9,Black,20.6
+CID339,2020-11-20,2020,Uttar Pradesh,Varanasi,Rabi,Cotton,27.07,115.48,4266.1,Borewell,Vermicompost,144.16,578.52,Sandy,29.8
+CID340,2013-04-09,2013,Maharashtra,Pune,Zaid,Sugarcane,35.94,223.06,6206.32,Drip,Compost,248.16,1087.17,Black,27.53
+CID341,2011-04-27,2011,Haryana,Gurgaon,Zaid,Cotton,28.8,54.76,1901.44,Borewell,NPK,140.56,917.3,Black,29.92
+CID342,2017-04-09,2017,Uttar Pradesh,Lucknow,Zaid,Sugarcane,48.42,220.06,4544.75,Drip,Vermicompost,55.61,243.14,Sandy,28.89
+CID343,2012-08-12,2012,Punjab,Patiala,Kharif,Rice,26.57,55.27,2080.23,Drip,Urea,199.84,763.6,Black,33.18
+CID344,2020-03-10,2019,Haryana,Faridabad,Rabi,Sugarcane,17.89,107.02,5982.18,Borewell,NPK,248.65,1020.45,Red,29.35
+CID345,2021-03-10,2020,Haryana,Hisar,Rabi,Sugarcane,60.06,84.87,1413.06,Drip,Compost,146.37,308.57,Red,27.84
+CID346,2019-07-04,2019,West Bengal,Kolkata,Kharif,Rice,48.11,225.56,4688.49,Canal,Vermicompost,269.44,731.43,Black,21.4
+CID347,2022-04-25,2022,Bihar,Patna,Zaid,Cotton,43.72,154.07,3524.1,Canal,NPK,224.41,628.96,Laterite,31.84
+CID348,2022-05-27,2022,Bihar,Bhagalpur,Zaid,Pulses,10.67,19.24,1803.3,Drip,Vermicompost,241.46,1110.09,Black,24.25
+CID349,2013-08-20,2013,Karnataka,Mysore,Kharif,Cotton,74.62,77.8,1042.68,Canal,Compost,179.94,575.03,Red,30.32
+CID350,2013-02-14,2012,Maharashtra,Nagpur,Rabi,Cotton,58.95,151.37,2567.82,Drip,Vermicompost,191.17,811.88,Laterite,31.32
+CID351,2017-07-01,2017,West Bengal,Darjeeling,Kharif,Maize,56.35,219.91,3902.56,Rainfed,DAP,194.41,974.19,Laterite,31.04
+CID352,2012-07-08,2012,Karnataka,Hubli,Kharif,Rice,51.33,293.43,5716.49,Canal,Compost,90.18,1164.57,Black,32.07
+CID353,2011-10-12,2011,Bihar,Gaya,Kharif,Maize,22.96,33.99,1480.24,Canal,NPK,231.12,1130.68,Laterite,29.21
+CID354,2010-07-30,2010,Uttar Pradesh,Varanasi,Kharif,Cotton,49.94,53.15,1064.26,Rainfed,Vermicompost,98.69,983.96,Sandy,27.74
+CID355,2011-02-12,2010,Haryana,Hisar,Rabi,Rice,65.85,451.33,6853.88,Canal,Vermicompost,299.2,979.67,Alluvial,30.04
+CID356,2010-05-23,2010,Haryana,Hisar,Zaid,Cotton,7.79,12.0,1541.0,Rainfed,NPK,231.53,759.11,Sandy,25.22
+CID357,2013-11-30,2013,Haryana,Hisar,Rabi,Sugarcane,57.92,148.66,2566.65,Drip,Vermicompost,176.56,758.63,Sandy,24.41
+CID358,2022-05-28,2022,Maharashtra,Mumbai,Zaid,Maize,69.72,473.84,6796.33,Drip,Vermicompost,242.49,957.47,Laterite,30.22
+CID359,2017-08-30,2017,West Bengal,Kolkata,Kharif,Maize,7.69,36.93,4801.97,Borewell,Vermicompost,219.23,429.93,Alluvial,26.19
+CID360,2021-12-26,2021,Bihar,Patna,Rabi,Rice,29.44,99.91,3393.58,Rainfed,Vermicompost,69.01,1131.4,Laterite,24.71
+CID361,2021-05-24,2021,Maharashtra,Nagpur,Zaid,Rice,50.4,110.78,2198.0,Borewell,Vermicompost,268.19,406.78,Red,32.52
+CID362,2022-10-02,2022,Maharashtra,Nagpur,Kharif,Wheat,92.1,465.55,5054.87,Drip,NPK,203.46,964.24,Sandy,34.37
+CID363,2017-05-22,2017,Bihar,Gaya,Zaid,Maize,49.59,342.49,6906.37,Rainfed,Compost,149.47,950.17,Red,20.81
+CID364,2010-05-15,2010,Karnataka,Hubli,Zaid,Maize,39.98,204.62,5118.03,Borewell,Urea,164.3,320.37,Sandy,26.9
+CID365,2014-01-27,2013,Punjab,Patiala,Rabi,Pulses,10.97,34.77,3169.61,Rainfed,NPK,96.79,462.85,Alluvial,27.07
+CID366,2016-07-29,2016,Haryana,Faridabad,Kharif,Sugarcane,70.37,227.57,3233.86,Drip,Urea,119.91,379.89,Red,34.69
+CID367,2022-07-16,2022,Uttar Pradesh,Kanpur,Kharif,Pulses,43.79,143.86,3285.3,Borewell,Compost,250.01,938.54,Laterite,32.09
+CID368,2020-05-15,2020,Karnataka,Bangalore,Zaid,Pulses,72.34,413.21,5712.0,Rainfed,DAP,112.74,1058.5,Black,25.98
+CID369,2015-02-14,2014,Punjab,Ludhiana,Rabi,Cotton,10.53,57.57,5467.56,Rainfed,Urea,140.24,760.35,Alluvial,25.16
+CID370,2019-10-03,2019,Maharashtra,Mumbai,Kharif,Pulses,58.01,283.95,4894.79,Borewell,Compost,294.84,484.61,Alluvial,30.1
+CID371,2020-03-26,2019,Punjab,Amritsar,Rabi,Sugarcane,63.54,118.76,1869.09,Borewell,Compost,210.15,1128.57,Laterite,29.47
+CID372,2011-09-22,2011,West Bengal,Kolkata,Kharif,Maize,23.59,68.44,2901.27,Rainfed,NPK,227.61,805.38,Laterite,24.07
+CID373,2019-02-10,2018,Uttar Pradesh,Varanasi,Rabi,Sugarcane,17.56,107.56,6125.27,Borewell,Urea,231.94,862.02,Black,23.16
+CID374,2017-05-27,2017,Punjab,Ludhiana,Zaid,Wheat,3.61,12.21,3382.08,Canal,Compost,75.98,818.1,Black,29.82
+CID375,2013-04-30,2013,Maharashtra,Nagpur,Zaid,Maize,44.87,78.9,1758.47,Borewell,Vermicompost,57.14,863.55,Alluvial,32.96
+CID376,2017-10-15,2017,Maharashtra,Mumbai,Kharif,Cotton,54.39,247.2,4544.99,Drip,NPK,207.76,835.85,Sandy,26.52
+CID377,2018-07-05,2018,Maharashtra,Pune,Kharif,Wheat,44.74,142.93,3194.7,Rainfed,NPK,88.93,210.56,Sandy,32.23
+CID378,2018-06-02,2018,Maharashtra,Pune,Kharif,Cotton,92.29,616.66,6681.75,Drip,Vermicompost,124.9,965.87,Alluvial,28.96
+CID379,2016-04-16,2016,Maharashtra,Nagpur,Zaid,Sugarcane,40.08,79.34,1979.62,Drip,Vermicompost,257.11,420.59,Black,26.33
+CID380,2022-04-08,2022,West Bengal,Darjeeling,Zaid,Cotton,27.91,136.5,4890.74,Rainfed,Compost,153.23,1053.48,Red,22.05
+CID381,2014-04-19,2014,Bihar,Gaya,Zaid,Pulses,49.71,145.35,2923.86,Borewell,NPK,62.41,734.97,Red,34.58
+CID382,2017-04-30,2017,Haryana,Hisar,Zaid,Wheat,24.05,45.79,1904.1,Drip,Urea,104.3,620.24,Laterite,34.97
+CID383,2022-06-04,2022,Maharashtra,Nagpur,Kharif,Wheat,27.38,91.85,3354.53,Drip,Urea,95.4,1095.7,Alluvial,32.26
+CID384,2013-12-24,2013,West Bengal,Darjeeling,Rabi,Sugarcane,25.47,177.45,6967.21,Borewell,Compost,165.21,971.0,Sandy,29.99
+CID385,2014-11-14,2014,Karnataka,Hubli,Rabi,Rice,63.29,79.31,1253.12,Canal,DAP,113.33,838.52,Red,25.41
+CID386,2021-03-02,2020,Punjab,Ludhiana,Rabi,Maize,2.49,14.36,5766.34,Canal,Vermicompost,148.95,443.09,Black,28.72
+CID387,2022-07-10,2022,Haryana,Faridabad,Kharif,Rice,16.61,25.72,1548.41,Rainfed,Vermicompost,282.71,1196.97,Black,20.9
+CID388,2013-02-05,2012,West Bengal,Kolkata,Rabi,Rice,32.36,140.77,4350.1,Rainfed,NPK,251.38,638.72,Red,20.32
+CID389,2014-09-28,2014,Uttar Pradesh,Lucknow,Kharif,Sugarcane,70.96,308.97,4354.15,Drip,NPK,97.44,386.63,Alluvial,24.86
+CID390,2018-07-18,2018,West Bengal,Darjeeling,Kharif,Wheat,53.58,198.05,3696.31,Rainfed,Urea,185.4,654.08,Sandy,25.69
+CID391,2022-04-19,2022,Bihar,Gaya,Zaid,Rice,32.75,45.2,1380.05,Drip,NPK,97.47,883.22,Sandy,22.31
+CID392,2015-06-26,2015,Karnataka,Hubli,Kharif,Wheat,52.8,73.92,1400.08,Borewell,Urea,94.66,231.27,Black,27.28
+CID393,2016-05-29,2016,Bihar,Bhagalpur,Zaid,Sugarcane,53.06,276.33,5207.88,Rainfed,DAP,62.27,420.72,Black,20.2
+CID394,2012-01-08,2011,Uttar Pradesh,Kanpur,Rabi,Cotton,7.01,30.48,4348.12,Drip,Vermicompost,255.51,994.25,Black,32.35
+CID395,2012-03-14,2011,Punjab,Patiala,Rabi,Wheat,94.52,639.29,6763.52,Canal,DAP,75.31,431.02,Laterite,22.84
+CID396,2012-04-11,2012,Bihar,Bhagalpur,Zaid,Cotton,56.26,308.12,5476.65,Rainfed,DAP,218.62,902.55,Laterite,33.24
+CID397,2019-01-23,2018,Bihar,Gaya,Rabi,Cotton,16.66,116.46,6990.6,Drip,NPK,283.38,1102.48,Sandy,34.87
+CID398,2016-04-29,2016,Karnataka,Hubli,Zaid,Maize,61.23,268.12,4378.87,Borewell,Compost,143.77,750.24,Alluvial,25.4
+CID399,2021-06-06,2021,Karnataka,Bangalore,Kharif,Maize,59.98,246.26,4105.66,Rainfed,NPK,51.64,1184.39,Red,32.84
+CID400,2018-04-17,2018,Bihar,Bhagalpur,Zaid,Pulses,16.32,20.02,1226.42,Rainfed,NPK,89.03,464.99,Sandy,23.75
+CID401,2016-04-07,2016,Punjab,Patiala,Zaid,Rice,73.69,393.61,5341.48,Drip,Vermicompost,93.23,1025.71,Sandy,32.29
+CID402,2010-04-08,2010,Uttar Pradesh,Kanpur,Zaid,Pulses,38.77,220.24,5680.73,Rainfed,DAP,136.98,1017.14,Laterite,33.95
+CID403,2019-10-07,2019,Uttar Pradesh,Varanasi,Kharif,Cotton,77.96,256.87,3294.92,Rainfed,DAP,181.1,519.32,Sandy,22.24
+CID404,2020-04-22,2020,Haryana,Gurgaon,Zaid,Sugarcane,97.13,535.87,5517.04,Canal,Urea,105.52,489.78,Laterite,22.22
+CID405,2021-07-21,2021,Karnataka,Hubli,Kharif,Pulses,40.52,61.2,1510.47,Drip,Compost,243.46,330.38,Red,27.21
+CID406,2019-10-26,2019,Karnataka,Hubli,Kharif,Pulses,61.98,335.56,5414.01,Borewell,Urea,110.58,466.26,Laterite,24.85
+CID407,2017-02-22,2016,Punjab,Patiala,Rabi,Maize,35.48,103.76,2924.43,Canal,Vermicompost,242.42,369.26,Alluvial,29.24
+CID408,2010-08-13,2010,Haryana,Faridabad,Kharif,Rice,68.85,133.29,1935.95,Canal,Urea,78.09,254.54,Sandy,33.9
+CID409,2022-08-06,2022,Maharashtra,Mumbai,Kharif,Maize,45.56,51.78,1136.49,Borewell,Vermicompost,235.0,411.88,Sandy,27.85
+CID410,2021-08-09,2021,Karnataka,Hubli,Kharif,Cotton,70.18,77.92,1110.33,Canal,Urea,113.86,260.11,Red,31.84
+CID411,2010-09-06,2010,Karnataka,Hubli,Kharif,Sugarcane,66.38,330.43,4977.89,Rainfed,Vermicompost,266.07,219.08,Laterite,23.47
+CID412,2016-03-15,2015,Uttar Pradesh,Lucknow,Rabi,Pulses,53.62,113.59,2118.5,Drip,NPK,190.17,912.47,Black,23.71
+CID413,2016-04-04,2016,Maharashtra,Pune,Zaid,Rice,2.82,14.4,5105.87,Rainfed,NPK,206.31,436.2,Sandy,24.14
+CID414,2018-12-29,2018,Karnataka,Bangalore,Rabi,Rice,16.02,102.26,6383.05,Borewell,Compost,71.95,582.21,Sandy,33.09
+CID415,2012-12-22,2012,Haryana,Hisar,Rabi,Maize,91.06,270.97,2975.71,Borewell,DAP,101.69,338.58,Sandy,30.26
+CID416,2021-05-06,2021,Maharashtra,Mumbai,Zaid,Rice,43.58,281.27,6454.01,Borewell,Vermicompost,214.06,764.84,Red,24.76
+CID417,2012-12-19,2012,Uttar Pradesh,Lucknow,Rabi,Rice,72.98,408.15,5592.61,Drip,Urea,290.3,503.35,Alluvial,22.28
+CID418,2010-05-15,2010,Haryana,Gurgaon,Zaid,Pulses,27.42,120.71,4402.26,Borewell,Compost,199.09,430.91,Black,25.39
+CID419,2020-02-13,2019,Haryana,Hisar,Rabi,Cotton,65.31,137.4,2103.86,Drip,Urea,172.86,337.51,Red,23.39
+CID420,2013-05-02,2013,Maharashtra,Pune,Zaid,Cotton,98.84,548.23,5546.66,Canal,NPK,94.27,1154.7,Laterite,33.01
+CID421,2014-03-15,2013,West Bengal,Howrah,Rabi,Sugarcane,77.85,361.81,4647.58,Drip,Urea,230.05,594.15,Sandy,28.91
+CID422,2017-11-13,2017,Bihar,Patna,Rabi,Wheat,87.9,217.49,2474.33,Drip,DAP,295.96,239.25,Laterite,27.74
+CID423,2017-02-24,2016,Maharashtra,Pune,Rabi,Maize,46.67,164.97,3534.77,Canal,Urea,222.49,1103.68,Laterite,32.45
+CID424,2011-10-30,2011,Uttar Pradesh,Varanasi,Kharif,Pulses,93.85,485.83,5176.68,Borewell,DAP,148.27,523.46,Black,22.68
+CID425,2015-02-01,2014,Karnataka,Bangalore,Rabi,Cotton,65.21,343.58,5268.82,Borewell,Urea,229.59,323.54,Black,30.59
+CID426,2016-05-13,2016,Bihar,Bhagalpur,Zaid,Pulses,61.6,120.7,1959.4,Drip,DAP,60.98,370.88,Alluvial,28.48
+CID427,2012-04-01,2012,Haryana,Gurgaon,Zaid,Wheat,42.54,121.54,2857.11,Drip,Vermicompost,122.2,380.7,Red,34.41
+CID428,2011-03-02,2010,West Bengal,Howrah,Rabi,Sugarcane,85.69,365.13,4261.01,Canal,Compost,202.0,693.47,Red,28.83
+CID429,2011-04-10,2011,Karnataka,Mysore,Zaid,Pulses,1.65,10.38,6293.01,Rainfed,Urea,204.94,757.55,Red,20.73
+CID430,2010-07-16,2010,Uttar Pradesh,Kanpur,Kharif,Wheat,67.03,404.06,6028.09,Rainfed,DAP,132.78,287.7,Black,26.25
+CID431,2019-04-06,2019,Uttar Pradesh,Kanpur,Zaid,Cotton,70.28,311.6,4433.7,Borewell,NPK,291.57,949.33,Alluvial,33.97
+CID432,2016-09-14,2016,Maharashtra,Pune,Kharif,Sugarcane,84.49,117.4,1389.56,Drip,Vermicompost,83.64,894.62,Alluvial,24.94
+CID433,2013-05-25,2013,Haryana,Hisar,Zaid,Wheat,11.82,63.57,5378.37,Canal,NPK,170.92,888.65,Alluvial,26.41
+CID434,2019-05-27,2019,Maharashtra,Mumbai,Zaid,Maize,92.78,434.74,4685.74,Drip,Vermicompost,179.93,831.86,Laterite,32.12
+CID435,2014-09-14,2014,Haryana,Hisar,Kharif,Wheat,12.7,48.12,3789.31,Canal,Urea,234.37,407.33,Sandy,34.98
+CID436,2018-04-21,2018,Maharashtra,Pune,Zaid,Rice,2.12,4.68,2207.12,Rainfed,Urea,113.6,267.84,Alluvial,27.6
+CID437,2016-03-02,2015,Punjab,Patiala,Rabi,Sugarcane,72.72,341.49,4695.96,Canal,Compost,258.01,394.02,Alluvial,33.83
+CID438,2020-08-16,2020,West Bengal,Kolkata,Kharif,Sugarcane,16.38,61.65,3763.71,Rainfed,Vermicompost,165.62,1014.17,Black,32.53
+CID439,2015-04-10,2015,Uttar Pradesh,Varanasi,Zaid,Pulses,2.85,12.72,4464.39,Rainfed,NPK,249.88,1088.03,Alluvial,20.99
+CID440,2016-01-20,2015,West Bengal,Kolkata,Rabi,Cotton,53.89,107.55,1995.82,Drip,Urea,96.84,316.84,Alluvial,30.58
+CID441,2011-11-10,2011,Maharashtra,Pune,Rabi,Rice,37.79,225.86,5976.74,Rainfed,DAP,104.03,502.32,Black,25.61
+CID442,2018-08-23,2018,Punjab,Amritsar,Kharif,Sugarcane,90.59,174.34,1924.47,Rainfed,DAP,280.91,932.44,Sandy,24.66
+CID443,2018-04-03,2018,West Bengal,Kolkata,Zaid,Rice,21.31,25.98,1219.32,Drip,Vermicompost,228.42,722.34,Black,24.66
+CID444,2015-12-20,2015,West Bengal,Kolkata,Rabi,Wheat,11.21,62.74,5597.08,Rainfed,NPK,55.62,958.49,Red,24.81
+CID445,2015-12-23,2015,Maharashtra,Mumbai,Rabi,Cotton,12.65,23.98,1895.92,Rainfed,Vermicompost,78.62,1158.3,Sandy,27.71
+CID446,2015-11-13,2015,Maharashtra,Mumbai,Rabi,Rice,94.38,549.67,5824.02,Borewell,DAP,92.82,511.38,Alluvial,28.11
+CID447,2020-09-23,2020,Punjab,Amritsar,Kharif,Wheat,38.98,59.12,1516.72,Drip,Vermicompost,94.75,796.12,Sandy,29.44
+CID448,2015-06-24,2015,Maharashtra,Pune,Kharif,Cotton,76.08,445.51,5855.8,Canal,Compost,293.42,955.74,Laterite,28.52
+CID449,2014-04-24,2014,Punjab,Amritsar,Zaid,Cotton,71.31,270.43,3792.38,Borewell,Compost,286.86,343.72,Sandy,23.87
+CID450,2021-01-29,2020,Haryana,Hisar,Rabi,Maize,45.88,54.21,1181.58,Drip,Vermicompost,78.22,678.65,Red,24.23
+CID451,2018-09-11,2018,Bihar,Patna,Kharif,Sugarcane,81.94,473.66,5780.55,Rainfed,Vermicompost,189.04,270.92,Alluvial,27.99
+CID452,2019-09-20,2019,Karnataka,Bangalore,Kharif,Pulses,16.74,65.19,3894.25,Canal,Vermicompost,135.18,1013.92,Sandy,26.47
+CID453,2018-05-23,2018,West Bengal,Howrah,Zaid,Rice,18.14,91.02,5017.63,Drip,Compost,78.58,796.08,Alluvial,28.33
+CID454,2016-07-06,2016,Haryana,Faridabad,Kharif,Pulses,11.77,69.26,5884.4,Drip,Vermicompost,131.85,844.99,Black,21.36
+CID455,2022-08-21,2022,West Bengal,Darjeeling,Kharif,Rice,66.43,246.98,3717.85,Rainfed,NPK,147.5,777.93,Red,23.08
+CID456,2014-12-03,2014,Bihar,Bhagalpur,Rabi,Cotton,98.28,301.29,3065.59,Canal,NPK,195.68,811.49,Sandy,26.06
+CID457,2018-10-30,2018,Punjab,Amritsar,Kharif,Wheat,70.63,418.45,5924.52,Rainfed,Compost,77.42,482.21,Black,23.53
+CID458,2022-02-01,2021,Uttar Pradesh,Kanpur,Rabi,Sugarcane,38.77,165.58,4270.71,Borewell,Compost,168.72,388.23,Laterite,32.65
+CID459,2020-07-05,2020,Haryana,Faridabad,Kharif,Rice,2.15,10.51,4890.34,Borewell,Urea,230.33,686.7,Laterite,34.62
+CID460,2023-02-24,2022,Haryana,Hisar,Rabi,Sugarcane,89.46,462.72,5172.34,Drip,Compost,205.81,654.39,Laterite,28.28
+CID461,2012-11-09,2012,Maharashtra,Nagpur,Rabi,Pulses,1.74,6.94,3988.94,Borewell,Urea,228.03,469.25,Sandy,28.65
+CID462,2021-11-21,2021,Bihar,Gaya,Rabi,Wheat,58.45,395.73,6770.43,Canal,Vermicompost,85.52,931.29,Alluvial,26.97
+CID463,2013-11-14,2013,Bihar,Patna,Rabi,Cotton,74.43,503.33,6762.47,Canal,NPK,221.02,739.2,Sandy,24.69
+CID464,2017-11-10,2017,Bihar,Patna,Rabi,Pulses,90.7,403.05,4443.79,Rainfed,Vermicompost,155.25,1160.58,Alluvial,24.34
+CID465,2021-05-10,2021,Uttar Pradesh,Kanpur,Zaid,Maize,7.08,27.18,3838.96,Borewell,Urea,193.21,856.32,Alluvial,32.13
+CID466,2011-06-29,2011,Maharashtra,Pune,Kharif,Pulses,8.61,49.1,5702.58,Rainfed,Vermicompost,83.13,480.97,Alluvial,20.21
+CID467,2021-06-09,2021,Haryana,Hisar,Kharif,Cotton,45.22,264.4,5847.04,Rainfed,NPK,245.63,436.2,Red,31.99
+CID468,2019-08-28,2019,Punjab,Ludhiana,Kharif,Sugarcane,75.52,262.64,3477.69,Drip,Urea,109.49,640.19,Red,23.16
+CID469,2022-09-08,2022,Uttar Pradesh,Kanpur,Kharif,Wheat,17.59,59.67,3392.47,Rainfed,Compost,169.07,1148.25,Sandy,23.5
+CID470,2019-03-17,2018,Maharashtra,Nagpur,Rabi,Wheat,29.59,171.14,5783.85,Drip,NPK,219.62,1161.76,Black,21.46
+CID471,2019-05-18,2019,West Bengal,Howrah,Zaid,Maize,34.16,88.9,2602.53,Canal,DAP,113.84,784.18,Laterite,31.6
+CID472,2019-06-04,2019,Uttar Pradesh,Varanasi,Kharif,Pulses,34.4,176.87,5141.67,Borewell,Compost,128.32,210.58,Black,32.48
+CID473,2011-05-09,2011,Punjab,Patiala,Zaid,Sugarcane,35.8,191.58,5351.5,Rainfed,DAP,98.27,223.7,Black,20.85
+CID474,2011-04-12,2011,Bihar,Bhagalpur,Zaid,Wheat,9.55,44.2,4628.11,Drip,Urea,214.1,1099.9,Sandy,32.05
+CID475,2015-01-22,2014,Uttar Pradesh,Lucknow,Rabi,Sugarcane,66.39,96.55,1454.29,Drip,NPK,280.67,476.38,Laterite,30.38
+CID476,2014-07-22,2014,Haryana,Gurgaon,Kharif,Sugarcane,39.47,275.33,6975.75,Rainfed,Vermicompost,288.9,464.66,Laterite,21.04
+CID477,2020-11-27,2020,Karnataka,Bangalore,Rabi,Wheat,15.24,85.53,5612.24,Borewell,Urea,203.49,306.25,Laterite,30.73
+CID478,2019-04-18,2019,Punjab,Ludhiana,Zaid,Maize,77.95,86.73,1112.59,Drip,DAP,87.21,840.34,Black,29.97
+CID479,2016-04-01,2016,Uttar Pradesh,Kanpur,Zaid,Wheat,52.02,345.39,6639.47,Drip,Compost,169.53,603.91,Black,28.1
+CID480,2011-05-25,2011,Uttar Pradesh,Kanpur,Zaid,Pulses,93.57,295.07,3153.51,Rainfed,NPK,150.15,832.27,Black,25.48
+CID481,2023-01-31,2022,Punjab,Amritsar,Rabi,Cotton,21.11,91.34,4326.85,Drip,Compost,215.18,498.87,Laterite,33.45
+CID482,2017-05-02,2017,Punjab,Patiala,Zaid,Rice,14.85,32.05,2158.56,Borewell,Vermicompost,172.31,262.99,Sandy,29.65
+CID483,2010-10-16,2010,West Bengal,Howrah,Kharif,Maize,6.55,37.51,5726.67,Canal,DAP,151.38,411.68,Sandy,26.88
+CID484,2013-07-04,2013,Uttar Pradesh,Varanasi,Kharif,Wheat,73.81,290.32,3933.37,Canal,Urea,167.8,1118.02,Black,23.64
+CID485,2010-12-27,2010,Haryana,Hisar,Rabi,Wheat,46.16,93.43,2024.14,Canal,Urea,254.45,306.33,Laterite,28.92
+CID486,2016-12-15,2016,West Bengal,Kolkata,Rabi,Cotton,68.16,200.76,2945.41,Borewell,NPK,130.4,1164.69,Red,31.46
+CID487,2014-09-05,2014,Punjab,Ludhiana,Kharif,Sugarcane,17.64,56.79,3219.56,Borewell,DAP,159.67,1125.68,Black,22.0
+CID488,2011-07-23,2011,Punjab,Amritsar,Kharif,Wheat,18.76,28.79,1534.85,Rainfed,DAP,154.06,1007.41,Laterite,30.39
+CID489,2019-01-17,2018,Uttar Pradesh,Kanpur,Rabi,Sugarcane,24.69,50.55,2047.29,Canal,NPK,199.07,917.2,Sandy,34.25
+CID490,2018-09-27,2018,Karnataka,Bangalore,Kharif,Rice,12.63,52.81,4181.19,Canal,DAP,204.73,1062.73,Sandy,27.61
+CID491,2013-09-02,2013,Maharashtra,Nagpur,Kharif,Rice,68.84,468.9,6811.44,Drip,NPK,174.38,359.76,Black,20.81
+CID492,2014-11-08,2014,Haryana,Faridabad,Rabi,Pulses,80.71,447.98,5550.45,Canal,Compost,76.11,252.46,Sandy,22.64
+CID493,2011-06-29,2011,Bihar,Patna,Kharif,Cotton,45.04,201.71,4478.57,Drip,NPK,99.69,876.85,Alluvial,23.45
+CID494,2013-04-10,2013,Haryana,Gurgaon,Zaid,Sugarcane,87.12,283.42,3253.19,Borewell,DAP,68.38,785.09,Black,33.36
+CID495,2013-03-26,2012,Bihar,Gaya,Rabi,Maize,14.5,77.12,5318.93,Rainfed,Urea,293.89,402.21,Red,20.48
+CID496,2012-03-27,2011,Maharashtra,Nagpur,Rabi,Sugarcane,42.4,235.83,5562.04,Borewell,Vermicompost,271.6,803.64,Sandy,33.58
+CID497,2012-01-03,2011,West Bengal,Kolkata,Rabi,Pulses,49.43,344.72,6973.99,Drip,DAP,259.25,479.17,Laterite,31.04
+CID498,2019-10-08,2019,Maharashtra,Pune,Kharif,Pulses,94.68,613.77,6482.53,Canal,Urea,154.44,244.22,Laterite,31.0
+CID499,2016-12-04,2016,Karnataka,Hubli,Rabi,Cotton,82.31,305.75,3714.65,Borewell,NPK,70.77,953.08,Laterite,34.25
+CID500,2020-09-27,2020,Maharashtra,Nagpur,Kharif,Wheat,48.5,137.21,2829.02,Drip,DAP,264.48,947.29,Black,34.65
